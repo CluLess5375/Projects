@@ -1,7 +1,7 @@
 # Projects
 This github keeps track of all of my projects
 
-## Pgae
+## Page
 there is 1 page that keeps all of my pages displayed, it's currently basically a templaye but imma make it work.
 
 ## Projects
